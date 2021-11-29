@@ -1,0 +1,164 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "book_name": "Things Fall Apart",
+            "desc" : "Things Fall Apart is a novel written by Nigerian author Chinua Achebe. Published in 1958, its story chronicles pre-colonial life in the south-eastern part of Nigeria and the arrival of the Europeans during the late nineteenth century.",
+            "ISBN": "5542449",
+            "hits_this_week": 100,
+            "all_time_issues": 400000,
+            "issue_status" : true,
+            "current_issue": {
+                "user": "@daniel",
+                "issue_date": "06/01/2020",
+                "issue_expiry": "20/01/2020"
+            },
+            "author": "Chinua Achebe",
+            "date_published": "12/09/1958"
+        },
+        {
+            "id": 2,
+            "book_name": "Andromeda Strain",
+            "desc" : "A team is deployed to recover a military satellite which has returned to Earth, but contact is lost abruptly. Aerial surveillance reveals that everyone in Piedmont, Arizona, the town closest to where the satellite landed, is apparently dead. ",
+            "ISBN": "3426945",
+            "hits_this_week": 200,
+            "all_time_issues": 2000,
+            "issue_status": false,
+            "current_issue": {
+                "user": "",
+                "issue_date": "",
+                "issue_expiry": ""
+            },
+            "author": "Micheal Crichton",
+            "date_published": "03/10/2003"
+        },
+        {
+            "id": 3,
+            "book_name": "Jurassic Park",
+            "desc" : "Jurassic Park is a 1990 science fiction novel written by Michael Crichton. A cautionary tale about genetic engineering, it presents the collapse of an amusement park showcasing genetically recreated dinosaurs to illustrate the mathematical concept of chaos theory and its real world implications.",
+            "ISBN": "9085645",
+            "hits_this_week": 70,
+            "all_time_issues": 70000,
+            "issue_status": true,
+            "current_issue": {
+                "user": "@michelle",
+                "issue_date": "01/01/2020",
+                "issue_expiry": "28/01/2020"
+            },
+            "author": "Micheal Crichton",
+            "date_published": "22/09/1990"
+        },
+        {
+            "id": 4,
+            "book_name": "Eaters Of The Dead",
+            "desc" : "The novel is set in the 10th century. The Caliph of Baghdad, Al-Muqtadir, sends his ambassador, Ahmad ibn Fadlan, on a mission to assist the king of the Volga Bulgars. Ahmad ibn Fadlan never arrives, as he is conscripted by a group of Vikings",
+            "ISBN": "9024356",
+            "hits_this_week": 40,
+            "all_time_issues": 23300,
+            "issue_status": true,
+            "current_issue": {
+                "user": "@isabella",
+                "issue_date": "06/01/2020",
+                "issue_expiry": "29/01/2020"
+            },
+            "author": "Micheal Crichton",
+            "date_published": "01/03/1976"
+        },
+        {
+            "id": 5,
+            "book_name": "Dear Edward",
+            "desc" : "Edward is 12 years old and travelling on Flight 2977 from Newark to Los Angeles with his parents and brother. ",
+            "ISBN": "4934451",
+            "hits_this_week": 200,
+            "all_time_issues": 1500,
+            "issue_status": false,
+            "current_issue": {
+                "user": "",
+                "issue_date": "",
+                "issue_expiry": ""
+            },
+            "author": "Ann Napolitano",
+            "date_published": "01/01/2020"
+        },
+        {
+            "id": 6,
+            "book_name": "Where Crawdads Sing",
+            "desc" : "For years, rumors of the “Marsh Girl” have haunted Barkley Cove, a quiet town on the North Carolina coast. ",
+            "ISBN": "0988342",
+            "hits_this_week": 150,
+            "all_time_issues": 980,
+            "issue_status": false,
+            "current_issue": {
+                "user": "",
+                "issue_date": "",
+                "issue_expiry": ""
+            },
+            "author": "Deila Owens",
+            "date_published": "22/08/2019"
+        },
+        {
+            "id": 7,
+            "book_name": "Sneezy The Snowman",
+            "desc" : "B-R-R-R-R! AH-CHOO! Sneezy the Snowman is cold, cold, cold. ",
+            "ISBN": "9941774",
+            "hits_this_week": 300,
+            "all_time_issues": 1000,
+            "issue_status": true,
+            "current_issue": {
+                "user": "@kylie",
+                "issue_date": "03/01/2020",
+                "issue_expiry": "01/02/2020"
+            },
+            "author": "Maureen Wright, Stephen Gilpin",
+            "date_published": "13/06/2019"
+        },
+        {
+            "id": 8,
+            "book_name": "Strange Planet",
+            "desc" : "Straight from the mind of New York Times bestselling author Nathan W. Pyle comes an adorable and profound universe in pink, blue, green, and purple.",
+            "ISBN": "4567345",
+            "hits_this_week": 112,
+            "all_time_issues": 1321,
+            "issue_status": true,
+            "current_issue": {
+                "user": "@jeff",
+                "issue_date": "11/12/2019",
+                "issue_expiry": "11/01/2020"
+            },
+            "author": "Nathan W. Pyle",
+            "date_published": "19/11/2019"
+        },
+        {
+            "id": 9,
+            "book_name": "The Guardian",
+            "desc" : "In the small Florida town of Seabrook, a young lawyer named Keith Russo was shot dead at his desk as he worked late one night. The killer left no clues.",
+            "ISBN": "9087456",
+            "hits_this_week": 142,
+            "all_time_issues": 1021,
+            "issue_status": true,
+            "current_issue": {
+                "user": "@lara",
+                "issue_date": "09/12/2019",
+                "issue_expiry": "13/01/2020"
+            },
+            "author": "John Grisham",
+            "date_published": "15/10/2019"
+        },
+        {
+            "id": 10,
+            "book_name": "The Dutch House",
+            "desc" : "At the end of the Second World War, Cyril Conroy combines luck and a single canny investment to begin an enormous real estate empire, \n\t propelling his family from poverty to enormous wealth.",
+            "ISBN": "0883211",
+            "hits_this_week": 300,
+            "all_time_issues": 2000,
+            "issue_status": false,
+            "current_issue": {
+                "user": "",
+                "issue_date": "",
+                "issue_expiry": ""
+            },
+            "author": "Ann Patchett",
+            "date_published": "24/10/2019"
+        }
+    ]
+}
